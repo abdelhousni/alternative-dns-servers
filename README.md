@@ -1,2 +1,35 @@
 # alternative-dns-servers
 Alternative DNS Servers: Table of Contents by @jpmens (https://jpmens.net/)
+
+- [ ] 1. Introduction to the DNS
+- [ ] 2. How to represent zone data and where to store it
+- [ ] 3. Preparing for your implementation
+- [ ] 4. MaraDNS                                                                   
+- [ ] 5. MyDNS                                                                     
+- [ ] 6. PowerDNS Authoritative Server 
+- [ ] 7. An overview of BIND
+- [ ] 8. BIND's Simplified Database Interface
+- [ ] 9. Bind DLZ
+- [ ] 10. Name Server Daemon (NSD)  
+- [ ] 11. tinydns                                                                  
+- [ ] 12. ldapdns                                                                  
+- [ ] 13. dnsmasq                                                                  
+- [ ] 14. DNS on Microsoft Windows
+- [ ] 15. DNS and Perl
+- [ ] 16. DNS blacklists
+- [ ] 17. Caching name servers
+- [ ] 18. Delegation and private DNS roots 
+- [ ] 19. Updating DNS zones and their associated records 
+- [ ] 20. The Name Service Switch
+- [ ] 21. Internationalized Domain Names
+- [ ] 22. Introducing DNSSEC
+- [ ] 23. Performance                                                              
+- [ ] 24. Securing and monitoring your DNS servers 
+- [ ] A. Getting started with (Open)LDAP
+- [ ] B. Use $INCLUDE and fix your soa
+- [ ] C. BIND SDB
+- [ ] D. Bind DLZ
+- [ ] E. Perl DNS name servers
+- [ ] F. User Defined Functions in MySQL
+- [ ] G. Bits and pieces
+- [ ] H. Scripting PowerDNS Recursor with the Lua programming language
