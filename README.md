@@ -1,7 +1,7 @@
 # alternative-dns-servers
 Alternative DNS Servers: Table of Contents by @jpmens (https://jpmens.net/)
 
-- [ ] 1. Introduction to the DNS
+- [x] 1. Introduction to the DNS
 - [ ] 2. How to represent zone data and where to store it
 - [ ] 3. Preparing for your implementation
 - [ ] 4. MaraDNS                                                                   
